@@ -1,0 +1,33 @@
+body {
+    width: 33%;
+}
+
+#res {
+    background-color: lightgray;
+    border: solid;
+    height: 48px;
+    font-size: 20px;
+}
+
+#btns button{
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0;
+    float: left;
+}
+
+.digits {
+    background-color: lightgreen;
+    color: brown;
+}
+
+.result {
+    background-color: darkgreen;
+    color: white;
+}
+
+.operations {
+    background-color: black;
+    color: red;
+}
